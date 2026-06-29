@@ -102,9 +102,19 @@ flutter run
 
 ### Screenshot
 
-| Home | Detail Produk | Cart | Riwayat Pesanan |
-|------|--------------|------|-----------------|
-| ![Home](assets/screenshots/urban_home.png) | ![Detail](assets/screenshots/urban_detail.png) | ![Cart](assets/screenshots/urban_cart.png) | ![Order](assets/screenshots/urban_order.png) |
+### Screenshot
+
+| Sign Up | Login | Home |
+|---------|-------|------|
+| <img src="assets/screenshots/urbanplant/urbanplant_signup.jpg" width="220"><br><sub>Registrasi akun baru.</sub> | <img src="assets/screenshots/urbanplant/urbanplant_login.jpg" width="220"><br><sub>Login menggunakan email atau Google.</sub> | <img src="assets/screenshots/urbanplant/urbanplant_home.jpg" width="220"><br><sub>Menampilkan katalog tanaman dan rekomendasi produk.</sub> |
+
+| Detail Produk | Wishlist | Cart |
+|---------------|----------|------|
+| <img src="assets/screenshots/urbanplant/urbanplant_detail.jpg" width="220"><br><sub>Informasi detail tanaman yang dipilih.</sub> | <img src="assets/screenshots/urbanplant/urbanplant_wishlist.jpg" width="220"><br><sub>Menyimpan tanaman favorit.</sub> | <img src="assets/screenshots/urbanplant/urbanplant_cart.jpg" width="220"><br><sub>Daftar produk sebelum checkout.</sub> |
+
+| Checkout | Orders | Profile |
+|----------|--------|---------|
+| <img src="assets/screenshots/urbanplant/urbanplant_checkout.jpg" width="220"><br><sub>Konfirmasi pesanan dan pembayaran melalui Wallt.</sub> | <img src="assets/screenshots/urbanplant/urbanplant_orders.jpg" width="220"><br><sub>Riwayat pesanan beserta status transaksi.</sub> | <img src="assets/screenshots/urbanplant/urbanplant_profile.jpg" width="220"><br><sub>Informasi akun dan pengaturan pengguna.</sub> |
 
 ---
 
