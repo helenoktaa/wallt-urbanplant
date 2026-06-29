@@ -3,7 +3,7 @@
 **Nama:** Helen Oktaviani  
 **Kelas:** TI SE 23 M  
 **NIM:** 1123150205  
-**GitHub:** [@helenoktaa](https://github.com/helenoktaa)
+**GitHub:** [helenoktaa](https://github.com/helenoktaa)
 
 ---
 
