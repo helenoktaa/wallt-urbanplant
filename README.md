@@ -217,9 +217,27 @@ flutter run
 
 ### Screenshot
 
-| Login | Home | Konfirmasi Pembayaran | Verifikasi PIN |
-|-------|------|----------------------|----------------|
-| ![Login](assets/screenshots/wallt_login.png) | ![Home](assets/screenshots/wallt_home.png) | ![Payment](assets/screenshots/wallt_payment.png) | ![PIN](assets/screenshots/wallt_pin.png) |
+### Screenshot
+
+| Splash Screen | Sign In | Home |
+|---------------|---------|------|
+| <img src="assets/screenshots/wallt/wallt_splashscreen.jpg" width="220"><br><sub>Tampilan awal aplikasi.</sub> | <img src="assets/screenshots/wallt/wallt_signin.jpg" width="220"><br><sub>Login menggunakan email atau Google.</sub> | <img src="assets/screenshots/wallt/wallt_home.jpg" width="220"><br><sub>Dashboard saldo, transaksi, dan menu utama.</sub> |
+
+| Top Up | Deals | History |
+|---------|-------|---------|
+| <img src="assets/screenshots/wallt/wallt_topup.jpg" width="220"><br><sub>Pengisian saldo e-wallet.</sub> | <img src="assets/screenshots/wallt/wallt_deals.jpg" width="220"><br><sub>Promo dan penawaran yang tersedia.</sub> | <img src="assets/screenshots/wallt/wallt_history.jpg" width="220"><br><sub>Riwayat seluruh transaksi pengguna.</sub> |
+
+| Payment (Deep Link) | PIN Verification | Payment Status |
+|---------------------|------------------|----------------|
+| <img src="assets/screenshots/wallt/wallt_payment.jpg" width="220"><br><sub>Konfirmasi pembayaran yang diterima dari Urban Plant.</sub> | <img src="assets/screenshots/wallt/wallt_pin.jpg" width="220"><br><sub>Verifikasi PIN sebelum pembayaran diproses.</sub> | <img src="assets/screenshots/wallt/wallt_paymentstatus.jpg" width="220"><br><sub>Status pembayaran setelah transaksi berhasil.</sub> |
+
+| Email OTP | Authenticator | Security |
+|------------|---------------|----------|
+| <img src="assets/screenshots/wallt/wallt_emailotp.jpg" width="220"><br><sub>Verifikasi OTP melalui email.</sub> | <img src="assets/screenshots/wallt/wallt_authenticator.jpg" width="220"><br><sub>Pengaturan autentikasi dua faktor (2FA).</sub> | <img src="assets/screenshots/wallt/wallt_security.jpg" width="220"><br><sub>Pengaturan keamanan akun.</sub> |
+
+| Profile |
+|---------|
+| <img src="assets/screenshots/wallt/wallt_profile.jpg" width="220"><br><sub>Informasi akun dan pengaturan profil pengguna.</sub> |
 
 ---
 
