@@ -266,9 +266,3 @@ Wallt mengimplementasikan dua lapisan verifikasi keamanan sebelum setiap transak
 
 ---
 
-## Download APK
-
-| Aplikasi | Link |
-|----------|------|
-| Urban Plant (debug) | [Download](#) *(coming soon)* |
-| Wallt (debug) | [Download](#) *(coming soon)* |
